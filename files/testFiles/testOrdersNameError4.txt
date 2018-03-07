@@ -1,0 +1,6 @@
+C2	s	A	a14	5
+C2	s	A	14	A5
+C2	s	C	13	2
+C9	b	B	6	4
+C2	s	C	13	2
+C9	b	B	6	4
