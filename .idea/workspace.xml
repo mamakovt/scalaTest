@@ -30,11 +30,10 @@
       <file leaf-file-name="mainClass.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/testing/mainClass.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
+            <state relative-caret-position="1027">
               <caret line="113" column="45" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="45" />
               <folding>
                 <element signature="e#17#58#0" expanded="true" />
-                <element signature="e#611#1515#0" expanded="false" />
                 <element signature="e#1519#3082#0" expanded="false" />
                 <element signature="e#3086#3317#0" expanded="false" />
                 <element signature="e#3321#4085#0" expanded="false" />
@@ -43,18 +42,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/task.md">
+      <file leaf-file-name="clients.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/clients.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-406">
-              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="168">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clients.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/clients.txt">
+      <file leaf-file-name="testReadWrite.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/testFiles/testReadWrite.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
@@ -63,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.txt">
+      <file leaf-file-name="testReadWrite2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/testFiles/testReadWrite2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="147">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -76,11 +75,41 @@
       <file leaf-file-name="spec.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/testing/unit/spec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="565">
+              <caret line="124" column="11" lean-forward="false" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
               <folding>
-                <element signature="e#22#51#0" expanded="true" />
+                <element signature="e#22#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testOrders.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/testFiles/testOrders.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="correctOrders.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/testFiles/correctOrders.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orders.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/orders.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,31 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testOrdersNameError.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="testOrdersNameError2.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testOrdersNameError3.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError3.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -146,12 +155,15 @@
         <option value="$PROJECT_DIR$/files/testFiles/clientsTestFirstArg.txt" />
         <option value="$PROJECT_DIR$/files/testFiles/clientsNumericError.txt" />
         <option value="$PROJECT_DIR$/readme.txt" />
-        <option value="$PROJECT_DIR$/files/testFiles/testOrders.txt" />
         <option value="$PROJECT_DIR$/files/testFiles/testOrdersNameError.txt" />
         <option value="$PROJECT_DIR$/files/testFiles/testOrdersNameError3.txt" />
         <option value="$PROJECT_DIR$/files/testFiles/testOrdersNameError2.txt" />
         <option value="$PROJECT_DIR$/files/testFiles/testOrdersNameError5.txt" />
         <option value="$PROJECT_DIR$/files/testFiles/testOrdersNameError4.txt" />
+        <option value="$PROJECT_DIR$/files/testFiles/testReadWrite.txt" />
+        <option value="$PROJECT_DIR$/files/testFiles/testReadWrite2.txt" />
+        <option value="$PROJECT_DIR$/files/testFiles/testOrders.txt" />
+        <option value="$PROJECT_DIR$/files/testFiles/correctOrders.txt" />
         <option value="$PROJECT_DIR$/src/test/scala/testing/unit/spec.scala" />
       </list>
     </option>
@@ -200,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,9 +285,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.spec.writeUsers should create a file">
+  <component name="RunManager" selected="ScalaTest.spec.applyTransActions should not change the entire number of $ and stocks">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -388,6 +400,22 @@
       <setting name="testKind" value="Class" />
       <setting name="path" value="testing.unit.spec" />
     </configuration>
+    <configuration name="spec.applyTransActions should not change the entire number of $ and stocks" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="scalatest" />
+      <setting name="path" value="testing.unit.spec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="testing.unit.spec" />
+      <setting name="testName" value="applyTransActions should not change the entire number of $ and stocks" />
+    </configuration>
     <configuration name="spec.writeUsers should create a file" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="scalatest" />
@@ -403,6 +431,22 @@
       <setting name="testKind" value="Test name" />
       <setting name="path" value="testing.unit.spec" />
       <setting name="testName" value="writeUsers should create a file" />
+    </configuration>
+    <configuration name="spec.writeUsers should follow the format" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="scalatest" />
+      <setting name="path" value="testing.unit.spec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="testing.unit.spec" />
+      <setting name="testName" value="writeUsers should follow the format" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -437,16 +481,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="ScalaTest.spec" />
       <item index="1" class="java.lang.String" itemvalue="Application.mainClass" />
       <item index="2" class="java.lang.String" itemvalue="ScalaTest.spec.writeUsers should create a file" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.spec.writeUsers should follow the format" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.spec.applyTransActions should not change the entire number of $ and stocks" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.spec.writeUsers should create a file" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.spec" />
-        <item index="2" class="java.lang.String" itemvalue="Application.mainClass" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.spec.applyTransActions should not change the entire number of $ and stocks" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.spec.writeUsers should follow the format" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.spec.writeUsers should create a file" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.spec" />
+        <item index="4" class="java.lang.String" itemvalue="Application.mainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -502,35 +550,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="spec - 2018.03.07 at 15h 22m 36s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_applyTransActions_should_not_change_the_entire_number_of_$_and_stocks - 2018.03.08 at 07h 57m 08s.xml">
+      <configuration name="spec.applyTransActions should not change the entire number of $ and stocks" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 22m 49s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_applyTransActions_should_not_change_the_entire_number_of_$_and_stocks - 2018.03.08 at 07h 57m 52s.xml">
+      <configuration name="spec.applyTransActions should not change the entire number of $ and stocks" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 23m 08s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_applyTransActions_should_not_change_the_entire_number_of_$_and_stocks - 2018.03.08 at 07h 58m 48s.xml">
+      <configuration name="spec.applyTransActions should not change the entire number of $ and stocks" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 24m 11s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_applyTransActions_should_not_change_the_entire_number_of_$_and_stocks - 2018.03.08 at 08h 02m 28s.xml">
+      <configuration name="spec.applyTransActions should not change the entire number of $ and stocks" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 24m 38s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_applyTransActions_should_not_change_the_entire_number_of_$_and_stocks - 2018.03.08 at 08h 11m 28s.xml">
+      <configuration name="spec.applyTransActions should not change the entire number of $ and stocks" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 26m 09s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_writeUsers_should_follow_the_format - 2018.03.08 at 07h 33m 30s.xml">
+      <configuration name="spec.writeUsers should follow the format" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 29m 06s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_writeUsers_should_follow_the_format - 2018.03.08 at 07h 34m 42s.xml">
+      <configuration name="spec.writeUsers should follow the format" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 31m 07s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_writeUsers_should_follow_the_format - 2018.03.08 at 07h 40m 46s.xml">
+      <configuration name="spec.writeUsers should follow the format" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec - 2018.03.07 at 15h 35m 01s.xml">
-      <configuration name="spec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_writeUsers_should_follow_the_format - 2018.03.08 at 07h 41m 47s.xml">
+      <configuration name="spec.writeUsers should follow the format" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="spec_writeUsers_should_create_a_file - 2018.03.07 at 15h 35m 20s.xml">
-      <configuration name="spec.writeUsers should create a file" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="spec_writeUsers_should_follow_the_format - 2018.03.08 at 07h 41m 55s.xml">
+      <configuration name="spec.writeUsers should follow the format" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -553,12 +601,11 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48914286" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5222857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -566,6 +613,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3082873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -592,7 +640,7 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -602,10 +650,23 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/mainClass.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="2373">
+          <caret line="113" column="45" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="45" />
+          <folding>
+            <element signature="e#17#58#0" expanded="true" />
+            <element signature="e#1519#3082#0" expanded="false" />
+            <element signature="e#3086#3317#0" expanded="false" />
+            <element signature="e#3321#4085#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/task.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -618,14 +679,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/Structures.scala">
+    <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="567">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/testing/unit/spec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/clients.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/Structures.scala" />
     <entry file="file://$PROJECT_DIR$/files/orders.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -646,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +774,6 @@
           <caret line="74" column="7" lean-forward="false" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
           <folding>
             <element signature="e#17#58#0" expanded="true" />
-            <element signature="e#611#1515#0" expanded="false" />
             <element signature="e#1519#3082#0" expanded="false" />
             <element signature="e#3086#3317#0" expanded="false" />
             <element signature="e#3321#4085#0" expanded="false" />
@@ -668,7 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +792,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#22#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -686,7 +804,6 @@
           <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding>
             <element signature="e#17#58#0" expanded="true" />
-            <element signature="e#611#1515#0" expanded="false" />
             <element signature="e#1519#3082#0" expanded="false" />
             <element signature="e#3086#3317#0" expanded="false" />
             <element signature="e#3321#4085#0" expanded="false" />
@@ -734,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,76 +872,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/files/task.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-406">
+        <state relative-caret-position="399">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/Structures.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/mainClass.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="113" column="45" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="45" />
-          <folding>
-            <element signature="e#17#58#0" expanded="true" />
-            <element signature="e#611#1515#0" expanded="false" />
-            <element signature="e#1519#3082#0" expanded="false" />
-            <element signature="e#3086#3317#0" expanded="false" />
-            <element signature="e#3321#4085#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/Structures.scala" />
     <entry file="file://$PROJECT_DIR$/files/testFiles/clientsTestFirstArg.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/solutionComments.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/clients.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/files/solutionComments.txt" />
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="567">
           <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/orders.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -834,15 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrders.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,14 +931,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError5.txt" />
     <entry file="file://$PROJECT_DIR$/files/testFiles/testOrdersNameError4.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -886,12 +940,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/files/clients.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testReadWrite.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/mainClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1027">
+          <caret line="113" column="45" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="45" />
+          <folding>
+            <element signature="e#17#58#0" expanded="true" />
+            <element signature="e#1519#3082#0" expanded="false" />
+            <element signature="e#3086#3317#0" expanded="false" />
+            <element signature="e#3321#4085#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testReadWrite2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/correctOrders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/testFiles/testOrders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/orders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/testing/unit/spec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="565">
+          <caret line="124" column="11" lean-forward="false" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
           <folding>
-            <element signature="e#22#51#0" expanded="true" />
+            <element signature="e#22#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
